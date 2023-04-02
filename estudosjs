@@ -1,0 +1,15 @@
+o que é react
+
+uma biblioteca de interface
+
+utilizado para constuir SPAs(single page aplication)
+
+baseado em componentes
+
+utiliza JSX para redenrizar HTML
+
+e aplica o virtual DOM para realizar as alterações de DOM
+
+podemos adicionar a um projeto ou criar um projeto com ele
+
+
